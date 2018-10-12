@@ -1,0 +1,21 @@
+﻿生成启动时间为 2018/10/12 16:20:00。
+     1>项目“C:\Users\Administrator\Desktop\Xls2Lua2\Xls2Lua2\xls2lua\xls2lua.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _MBCS /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp"Debug\xls2lua.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /wd4005 /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+     1>c:\microsoft visual studio 12.0\vc\atlmfc\include\afx.h(38): warning C4996: 'MBCS_Support_Deprecated_In_MFC': MBCS support in MFC is deprecated and may be removed in a future version of MFC.
+                 c:\microsoft visual studio 12.0\vc\atlmfc\include\afx.h(33) : 参见“MBCS_Support_Deprecated_In_MFC”的声明
+         C:\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _MBCS /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\xls2lua.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /wd4005 /analyze- /errorReport:prompt xls2lua.cpp
+         xls2lua.cpp
+       ResourceCompile:
+         C:\Program Files (x86)\Windows Kits\8.1\bin\x86\rc.exe /D _AFXDLL /l"0x0409" /nologo /fo"Debug\xls2lua.res" xls2lua.rc 
+       Link:
+         C:\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Administrator\Desktop\Xls2Lua2\Xls2Lua2\Debug\xls2lua.exe" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"C:\Microsoft Visual Studio 12.0\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:"C:\Users\Administrator\Desktop\Xls2Lua2\Xls2Lua2\Debug\xls2lua.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Administrator\Desktop\Xls2Lua2\Xls2Lua2\Debug\xls2lua.lib" /MACHINE:X86 Debug\xls2lua.res
+         Debug\stdafx.obj
+         Debug\xls2lua.obj
+         xls2lua.vcxproj -> C:\Users\Administrator\Desktop\Xls2Lua2\Xls2Lua2\Debug\xls2lua.exe
+     1>已完成生成项目“C:\Users\Administrator\Desktop\Xls2Lua2\Xls2Lua2\xls2lua\xls2lua.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:03.22
